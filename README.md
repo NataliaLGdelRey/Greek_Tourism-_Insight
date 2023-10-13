@@ -4,6 +4,8 @@ Project_04
 
 ## Members
 
+Reinforcement Learning Rockstars
+
 - Mavin Gill				
 - David Kauffman				
 - Natalia Lopez				
