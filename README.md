@@ -4,10 +4,10 @@ Project_04
 
 ## Members
 
-Mavin Gill				
-David Kauffman				
-Natalia Lopez				
-Andrew Rexford				
+- Mavin Gill				
+- David Kauffman				
+- Natalia Lopez				
+- Andrew Rexford				
 
 --------------------
 
