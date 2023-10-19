@@ -32,6 +32,7 @@ Project focused on analyzing Greek tourism insights
 
 Greek tourism data from Kaggle
 - 3,000 rows, 13 columns
+- Date range January 2020 - August 2023
 - Mix of authentic and synthetic data.
 Data source did not specify a currency in the documentation
 - We assumed cost in Euros
@@ -48,14 +49,16 @@ Cost column varies wildly
 
 
 Most Affordable:
+June
 March
 September
-June
 
 Smallest Crowds:
-November
-December
-September
+July
+June
+February
+
+Best Overall: June
 
 - Exploring the dataset and finding limitations due to synthetic data. Graphs showing data distribution.
 
@@ -78,6 +81,6 @@ Accuracy of the model with 2,000 iterations was the strongest, at 79%
 
 ## Conclusion
 
-- Best month to travel: September.
+- Best month to travel: June.
 - Dataset was not very conducive to accurate machine learning models.
 - May be due to inclusion of synthetic data.
