@@ -2,6 +2,8 @@
 
 Project_04
 
+Link to slide deck: https://docs.google.com/presentation/d/1ObROAk8j4MwT3C039XaXKyEsCCQSRPHp7ugol0l518U/edit?usp=sharing
+
 ## Members
 
 Reinforcement Learning Rockstars
